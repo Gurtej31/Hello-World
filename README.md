@@ -1,1 +1,2 @@
 # Hello-World
+My name is Gurtej Singh Bal, and I am from India. I have a Diploma in Computer Applications, and now I have opted for Web Developement Certificate so that I can learn how to design websites and create them and use my logic to the best possible way to create new things. This course will help me get a good job and further lead to upgradation of my knowledge and creativity to the utmost.
